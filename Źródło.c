@@ -684,8 +684,8 @@ int cw11(void)
 		printf("Naliczono rabat w wysokosci %.2fzl\n", kosztCalkowity * 0.05);
 	}
 	printf("Calkowity koszt zamowienia wynosi %.2fzl.\n", kosztCalkowity);
-
-	return 0;
+	//zmiany dla git
+ 	return 0;
 }
 int main()
 {
